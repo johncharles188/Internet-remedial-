@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="1">
+        <name>Alice Nakamura</name>
+        <course>Computer Science</course>
+        <year>2</year>
+        <grade>A</grade>
+        <email>alice@university.ac.ug</email>
+    </student>
+    <student id="2">
+        <name>Brian Okello</name>
+        <course>Information Technology</course>
+        <year>1</year>
+        <grade>B+</grade>
+        <email>brian@university.ac.ug</email>
+    </student>
+    <student id="3">
+        <name>Carol Auma</name>
+        <course>Software Engineering</course>
+        <year>3</year>
+        <grade>A-</grade>
+        <email>carol@university.ac.ug</email>
+    </student>
+    <student id="4">
+        <name>David Ssemanda</name>
+        <course>Computer Science</course>
+        <year>2</year>
+        <grade>B</grade>
+        <email>david@university.ac.ug</email>
+    </student>
+    <student id="5">
+        <name>Eva Namukasa</name>
+        <course>Information Technology</course>
+        <year>4</year>
+        <grade>A+</grade>
+        <email>eva@university.ac.ug</email>
+    </student>
+</students>
